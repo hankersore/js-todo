@@ -1,0 +1,17 @@
+* {
+  list-style: none;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+body {
+  background-color: burlywood;
+  margin: 30px;
+}
+
+input {
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+}/*# sourceMappingURL=style.css.map */
